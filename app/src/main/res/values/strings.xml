@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">1.Which cheese is traditionally used for pizzas?</string>
+
+    <string name="question2">2.Which nuts are used in marzipan?</string>
+    <string name="question2_choice1">Almonds</string>
+    <string name="question2_choice2">Peanuts</string>
+    <string name="question2_choice3">Cashews</string>
+
+    <string name="question3">3. What is the most famous beer in Ireland? <n>(choose 2 answers)</n></string>
+    <string name="question3_choice1">Harp Lager</string>
+    <string name="question3_choice2">Porterhouse</string>
+    <string name="question3_choice3">Guiness</string>
+    <string name="question3_choice4">Ginger</string>
+
+    <string name="question4">4.Which country is the origin of the cocktail Mojito?</string>
+    <string name="question4_choice1">Cuba</string>
+    <string name="question4_choice2">Mexico</string>
+    <string name="question4_choice3">Brazil</string>
+
+    <string name="question5">5.From which countries are the famous Emmental Cheese? <n>(choose 2 answers)</n></string>
+    <string name="question5_choice1">Swiss</string>
+    <string name="question5_choice2">France</string>
+    <string name="question5_choice3">Switzerland</string>
+
+    <string name="question6">6. What is Japanese sake made from?</string>
+    <string name="question6_choice1">Wheat</string>
+    <string name="question6_choice2">Rice</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
